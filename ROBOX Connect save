@@ -1,0 +1,19 @@
+mkdir(ROBOX Connect)
+var blob = new Blob(["This file has been saved to ROBOX Connect database. If you saw this file and went through the setup,it has recorded. We didn't steal your data."], { type: "text/plain;charset=utf-8", })
+<script type="text/vbscript">
+      Function MyVbAlert()
+        MsgBox("Robox Connect not invalid. Setup complete!")
+      End Function
+  </script>
+
+   <script type="text/javascript">
+
+       function myJsMouseOver(c) {
+            c.style.color = 'green'    
+       }
+
+       function myJsMouseOut(c) {
+           c.style.color = 'black'
+       }
+
+   </script>
